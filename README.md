@@ -1,7 +1,7 @@
-# Hello, I'm Your Name 👋
+# Hello, I'm zh33rmao there 👋
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on [Project Name]
+- 🔭 I’m currently working on [ztrade]
 - 🌱 I’m currently learning [Technology/Language]
 - 👯 I’m looking to collaborate on [Project Type/Technology Area]
 - 🤔 I’m looking for help with [Specific Problem/Challenge]
