@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with [Specific Problem/Challenge]
 - 💬 Ask me about [Transportation Plan/ Modelling]
 - 📫 I like programming.
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Gaming Travelling Photographing]
 
 ### 💻 Skills
