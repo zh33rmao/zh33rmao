@@ -29,10 +29,10 @@
 ### 🎯 My Projects
 - ([pyAliyunDDNS](https://github.com/zh33rmao/pyAliyunDDNS)) - A python version of Dynamic binding ip to aliyun server
 - ([desire_lines](https://github.com/zh33rmao/desire_lines)) - A qgis plugin to draw desire lines between metro stations.
-- ([Project Link 3](https://github.com/zh33rmao/rshell)) - A reverse shell implementation of python
+- ([rshell](https://github.com/zh33rmao/rshell)) - A reverse shell implementation of python
 
 ### 📫 Contact Me
-- [Blog]([Your Blog Link](https://zh33rmao.github.io/))
+- ([zh33rmao's home page](https://zh33rmao.github.io/))
 
 ### ⚡ Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
