@@ -2,13 +2,13 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on [ztrade]
-- 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Project Type/Technology Area]
+- 🌱 I’m currently learning [C++]
+- 👯 I’m travelling around the world.
 - 🤔 I’m looking for help with [Specific Problem/Challenge]
-- 💬 Ask me about [Your Area of Expertise]
-- 📫 How to reach me: [Your Email/Social Media]
+- 💬 Ask me about [Transportation Plan/ Modelling]
+- 📫 I like programming.
 - 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Personal Trait or Hobby]
+- ⚡ Fun fact: [Gaming Travelling Photographing]
 
 ### 💻 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -27,7 +27,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
 
 ### 🎯 My Projects
-- [Project Name 1](Project Link 1) - Project Description 1
+- [pyAliyunDDNS]([Project Link 1](https://github.com/zh33rmao/pyAliyunDDNS)) - Project Description 1
 - [Project Name 2](Project Link 2) - Project Description 2
 - [Project Name 3](Project Link 3) - Project Description 3
 
